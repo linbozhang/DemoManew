@@ -1,0 +1,9 @@
+/
+/demo_maneu_august2015/Demo1/Library
+/demo_maneu_august2015/Demo1/obj
+/demo_maneu_august2015/Demo1/Temp
+/demo_maneu_august2015/Demo1/.vs
+*.csproj
+*.sln
+*.userprefs
+*.suo
